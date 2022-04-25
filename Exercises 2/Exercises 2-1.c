@@ -23,5 +23,4 @@ int main ()
     printf("R$%.2f", Conta);
     
     return 0;
-    
 }
